@@ -6,7 +6,7 @@ category: CLANKY   # nešahat!
 title: Ústavní soud zamítl návrh zrušení novely, která omezila účast spolků
 date: 2021-02-16  
 author: Patrik Doležal
-tags: komentář ústavní-soud právo # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+tags: komentář ústavní-soud právo 
 
 ### Nepovinné položky ###
 authorId: patrik.dolezal
