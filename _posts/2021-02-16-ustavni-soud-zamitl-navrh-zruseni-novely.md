@@ -2,7 +2,6 @@
 #název souboru: 2021-02-16-ustavni-soud-zamitl-navrh-zruseni-novely.md
 ### Povinné položky ###
 
-layout: post       # nešahat!
 category: CLANKY   # nešahat!
 title: "Ústavní soud zamítl návrh zrušení novely, která omezila účast spolků"
 date: 2021-02-16  
