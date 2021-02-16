@@ -4,7 +4,7 @@
 
 layout: post       # nešahat!
 category: CLANKY   # nešahat!
-title: Ústavní soud zamítl návrh zrušení novely, která omezila účast spolků
+title: "Ústavní soud zamítl návrh zrušení novely, která omezila účast spolků"
 date: 2021-02-16  
 author: Patrik Doležal
 tags: komentář ústavní-soud právo 
