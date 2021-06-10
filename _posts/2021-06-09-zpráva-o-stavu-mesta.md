@@ -6,6 +6,7 @@ title: Město v datech a číslech. Brno vydalo aktuální zprávu o stavu měst
 date: 2021-06-09   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno Zpráva-o-stavu-města data digitalizace Tomáš-Koláčny # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
+important: true
 
 ### Nepovinné položky ###
 image: posts/ozpravaweb.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
