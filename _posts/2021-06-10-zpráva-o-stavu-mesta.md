@@ -1,9 +1,9 @@
-#název souboru: 2021-06-09-zpráva-o-stavu-mesta.md
+#název souboru: 2021-06-10-zpráva-o-stavu-mesta.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
 title: Město v datech a číslech. Brno vydalo aktuální zprávu o stavu města. 
-date: 2021-06-09   # formát YYYY-MM-DD
+date: 2021-06-10   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno Zpráva-o-stavu-města data digitalizace Tomáš-Koláčny # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
 important: true
