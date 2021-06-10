@@ -9,7 +9,7 @@ tags: Brno Zpráva-o-stavu-města data digitalizace Tomáš-Koláčny # kategori
 important: true
 
 ### Nepovinné položky ###
-image: posts/ozpravaweb.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
+image: posts/zpravaweb.jpg # obrázek ideálně 420x677px minifikovaný přes https://tinypng.com/
 #description: Jak vysoká je v Brně nezaměstnanost? Zhoršuje se dopravní situace v centru? Co dělá město pro zlepšení životního prostředí? Snížila se za minulý rok kriminalita? Odpovědi na tyto i další otázky se dozvíte v aktuální Zprávě o stavu města.
 
 ---
