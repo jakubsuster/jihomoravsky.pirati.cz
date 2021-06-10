@@ -1,8 +1,8 @@
-#název souboru: 2021-06-10-zpráva-o-stavu-mesta.md
+#název souboru: 2021-06-10-zprava-o-stavu-mesta.md
 ### Povinné položky ###
 
 category: CLANKY   # nešahat!
-title: Město v datech a číslech. Brno vydalo aktuální zprávu o stavu města. 
+title: "Město v datech a číslech. Brno vydalo aktuální zprávu o stavu města." 
 date: 2021-06-10   # formát YYYY-MM-DD
 author: Krajský MO
 tags: Brno Zpráva-o-stavu-města data digitalizace Tomáš-Koláčny # kategorie odděleny mezerami, např. volby zemědělství životní-prostředí piráti (viz https://jihomoravsky.pirati.cz/tags/)
@@ -21,7 +21,7 @@ Brno každoročně vydává souhrnou Zprávu o stavu města s cílem předat ve�
 
 Poprvé budou moci návštěvníci venkovní interaktivní výstavu rozpohybovat díky použití rozšířené reality, kdy více než polovina obrázků za pomoci chytrého telefonu ožije nebo se zájemcům zobrazí doplňující informace. Pokud budete chtít znát detailní přehled statistik a ponořit se do všech čísel ještě hlouběji, než nabízí venkovní výstava, navštivte [nový web Zprávy o stavu města.](https://storymaps.arcgis.com/stories/315d31b0b008452a955eabde7d094963){:target="_blank"}.
 
-Jak si tedy Brno loni vedlo? Přečetli jsme za vás"
+Jak si tedy Brno loni vedlo? Přečetli jsme za vás
 - Oficiálně ve městě žije celkem 382 405 Brňanů a Brňanek. 
 - Počet vysokoškolských studentů poprvé od roku 2011 stoupl. Nyní jich v Brně studuje téměř 65 tisíc.
 - Významně poklesla kriminalita. Trestných činů bylo nejméně od roku 1989.
