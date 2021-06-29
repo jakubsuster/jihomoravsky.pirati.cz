@@ -22,4 +22,5 @@ Pokud si rádi zajdete na letní festivaly, koncerty nebo třeba do kina, máme 
 Peníze však nebyly jediným tématem, které zastupitelstvo projednávalo. Změnila se i pravidla pro žadatele. Všichni dobře víme, že přílišná byrokracie žadatele akorát tak odrazuje od uspořádání akce. Rozhodli jsme se to změnit. Už nebudete muset dokládat doklad o existenci žadatele, jelikož si to Magistrát v příslušném rejstříku dohledá sám. 
 
 
+
 [Marek Fišer](https://jihomoravsky.pirati.cz/lide/marek-fiser/){:target="_blank"}. 
